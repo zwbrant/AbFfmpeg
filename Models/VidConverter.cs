@@ -13,7 +13,7 @@ namespace AbFfmpeg
 {
 
 
-    public class VidConverter : INotifyPropertyChanged
+    public class VidConverter : INotifyPropertyChanged 
     {
         BackgroundWorker _vidWorker;
 
