@@ -1,0 +1,7 @@
+c:\users\zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\bin\Debug\AbFfmpeg.dll
+c:\users\zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\bin\Debug\AbFfmpeg.pdb
+c:\users\zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\obj\Debug\AbFfmpeg.csprojResolveAssemblyReference.cache
+c:\users\zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\obj\Debug\AbFfmpeg.dll
+c:\users\zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\obj\Debug\AbFfmpeg.pdb
+C:\Users\Zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\bin\Debug\AbFfmpeg.dll.CodeAnalysisLog.xml
+C:\Users\Zane\documents\visual studio 2013\Projects\AbFfmpeg\AbFfmpeg\bin\Debug\AbFfmpeg.dll.lastcodeanalysissucceeded
